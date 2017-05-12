@@ -1,0 +1,40 @@
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.pdb
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Users\Iota\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.pdb
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Users\Stephen\Documents\Hololens Project\RattleCan\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,17 @@
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+J:\Unity\Projects\JetSet230repo\RattleCan\Planetarium\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
